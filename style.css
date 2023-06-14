@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#App {
+   background-color: #ff0000; 
+}
+
+#Game {
+    background-color: #ff8400;
+}
+
+#Chatbot {
+    background-color: #ffff00;
+}
+
+img {
+    width: 250px;
+}
